@@ -1,0 +1,40 @@
+body {
+    font-size: 18px;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.first-page,
+.second-page {
+    margin-bottom: 4rem;
+}
+
+.first-page h1,
+.second-page h2,
+.second-page h3,
+.third-page h2,
+.fourth-page h2,
+.fourth-page .display-6,
+.sixth-page h2 {
+    color: hsl(210, 10%, 33%);
+    font-weight: 600;
+}
+
+.first-page p,
+.second-page p,
+.third-page p,
+.fourth-page p,
+.sixth-page p {
+    color: hsl(201, 11%, 66%);
+}
+
+.cyan-btn {
+    background-color: hsl(171, 66%, 44%);
+    font-weight: 600;
+    color: white;
+}
+
+.blue-btn {
+    background-color: hsl(233, 100%, 69%);
+    font-weight: 600;
+    color: white;
+}
